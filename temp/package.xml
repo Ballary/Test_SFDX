@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>PackagePoc</fullName>
+    <apiAccessLevel>Unrestricted</apiAccessLevel>
+    <namespacePrefix>ballary1997</namespacePrefix>
+    <types>
+        <members>BatchApexExample</members>
+        <members>BatchApexExampleTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Test_Obj__c.Country__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Test_Obj__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Test_Obj__c-Test Obj Layout</members>
+        <name>Layout</name>
+    </types>
+    <version>48.0</version>
+</Package>
